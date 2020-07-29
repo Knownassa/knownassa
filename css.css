@@ -1,0 +1,125 @@
+.button{
+background-color: black;
+background-size: cover;
+height: auto;
+width: auto;
+transition-duration: 0.4s;
+border-radius: 20;
+padding: 5;
+color:#F7F7F7 ;
+
+}
+.button:hover{
+background-color: #3D02CE;
+background-size: cover;
+height: auto;
+width:452;
+color:white ;
+}
+.buttonselected{
+background-color: #3D02CE;
+background-size: cover;
+height: auto;
+width:452;
+color:white ;
+}
+.buttonselected:hover{
+background-color: #230393;
+background-size: cover;
+height: auto;
+width:452;
+color:white ;
+}
+.header{
+  background-color: black;
+  padding-top:30;
+ padding-bottom:30;
+width: 100%;
+font-family: Bahnschrift;
+font-size: 10;
+position: fixed;
+opacity: 90%;
+
+
+}
+.buttonfont{
+  font-family: corbel;
+  color:#F7F7F7 ;
+   font-size:20;
+   transition-duration: 0.4s;
+
+}
+
+.buttonfont:hover{
+  font-family: corbel;
+
+  font-size:20;
+
+
+}
+.headerContent{
+    margin: 0 auto; width: 960px;
+}
+.logo{
+font-size: 15;
+color:#FEFDFF ;
+transition-duration: 0.4s;
+}
+.logo:hover{
+color:#DFDEE0 ;
+}
+.body{
+  margin-left: -4;
+  margin-top:-5;
+  margin-right: -4;
+  font-family: Raleway;
+}
+.a{
+  color: white;
+}
+.a:hover{
+  color:gray;
+}
+.Welcome{
+  padding-top: 300;
+  padding-bottom: 170;
+  background-image: url(image/wellcome.jpg);
+  background-size: auto;
+  color: white;
+  font-family: agency fb;
+  font-size: 60;
+  font-weight: bold;
+  background-blend-mode: luminosity;
+  background-color: black;
+  font-feature-settings: normal;
+}
+.table{
+  background-color: #161616;
+}
+.facebook{
+  background-image: url(image/facebook.png);
+  background-size: cover;
+  transition-duration: 0.4s;
+  border-width: 0;
+  width: 40pt;
+  height: 40pt;
+  border-radius: 100%;
+
+}
+.facebook:hover{
+  background-image: url(image/facebookhover.png);
+  background-size: cover;
+}
+.instagram{
+  background-image: url(image/instagram.png);
+  background-size: cover;
+  transition-duration: 0.4s;
+  border-width: 0;
+  width: 40pt;
+  height: 40pt;
+  border-radius: 100%;
+}
+.instagram:hover{
+  background-image: url(image/instagramhover.png);
+  background-size: cover;
+}
