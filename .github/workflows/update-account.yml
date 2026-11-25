@@ -1,0 +1,29 @@
+name: Refresh public account record
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+  push:
+    paths:
+      - scripts/update_account.py
+      - .github/workflows/update-account.yml
+permissions:
+  contents: write
+concurrency:
+  group: profile-account-record
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate public account record
+        run: python3 scripts/update_account.py
+      - name: Commit only if account metrics changed
+        run: |
+          git add assets/account.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh public account record'
+          git push
