@@ -1,114 +1,53 @@
-<!-- KNOWNASSA / PERSONAL INDEX -->
-<img src="assets/index.svg" width="100%" alt="Knownassa — personal index of code, design and experiments. Sayef Ahmed, Bangladesh." />
-
-<sub>PERSONAL INDEX &nbsp; / &nbsp; BANGLADESH &nbsp; / &nbsp; EST. 2020</sub>
-
-# Sayef Ahmed
+# Sayef Ahmed <sub>/ Knownassa</sub>
 
 **Vibe coder · Graphic designer · UI/UX designer**
 
-I work somewhere between code and design. I use AI-assisted development to explore ideas, build software and work with technologies beyond my core programming foundations. I also design interfaces and visual identities. I enjoy making things that look considered and work well.
+I build software with AI-assisted development and design interfaces and visual identities. My programming foundations are HTML, CSS, JavaScript, Python and Java.
 
-[Repositories](https://github.com/Knownassa?tab=repositories) &nbsp; / &nbsp; [GitHub activity](https://github.com/Knownassa?tab=overview) &nbsp; / &nbsp; [Full statistics](https://gitshine.com/stats/Knownassa)
+[Repositories](https://github.com/Knownassa?tab=repositories) · [GitHub activity](https://github.com/Knownassa?tab=overview) · [Full statistics ↗](https://gitshine.com/stats/Knownassa)
 
----
+<img src="assets/account.svg" width="100%" alt="GitHub account age, public repositories, followers and stars received" />
 
-<sub>01 / PRACTICE</sub>
+<table>
+<tr>
+<td width="48%" valign="top">
 
-## What I do
+<strong>Programming foundations</strong>
+<p><img alt="HTML5" src="https://img.shields.io/badge/HTML5-8A3D32?style=flat-square&amp;logo=html5&amp;logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-8A3D32?style=flat-square&amp;logo=css3&amp;logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8A3D32?style=flat-square&amp;logo=javascript&amp;logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-8A3D32?style=flat-square&amp;logo=python&amp;logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-8A3D32?style=flat-square&amp;logo=openjdk&amp;logoColor=white" /></p>
 
-| Code | Design |
-| :--- | :--- |
-| Build web applications and experimental tools | Graphic design and visual communication |
-| AI-assisted development and rapid prototyping | UI/UX and interaction design |
-| Explore software systems and integrations | Interface prototyping and design systems |
+<strong>Graphic &amp; UI/UX design</strong>
+<p><img alt="Graphic Design" src="https://img.shields.io/badge/Graphic%20Design-575949?style=flat-square" /> <img alt="UI/UX Design" src="https://img.shields.io/badge/UI%2FUX%20Design-575949?style=flat-square" /> <img alt="Figma" src="https://img.shields.io/badge/Figma-575949?style=flat-square&amp;logo=figma&amp;logoColor=white" /> <img alt="Visual Identity" src="https://img.shields.io/badge/Visual%20Identity-575949?style=flat-square" /> <img alt="Prototyping" src="https://img.shields.io/badge/Prototyping-575949?style=flat-square" /> <img alt="Design Systems" src="https://img.shields.io/badge/Design%20Systems-575949?style=flat-square" /> <img alt="Typography" src="https://img.shields.io/badge/Typography-575949?style=flat-square" /> <img alt="Layout Design" src="https://img.shields.io/badge/Layout%20Design-575949?style=flat-square" /></p>
 
-<sub>02 / TOOLKIT</sub>
+<strong>AI-assisted build stack</strong>
+<p><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-343434?style=flat-square&amp;logo=typescript&amp;logoColor=white" /> <img alt="Angular" src="https://img.shields.io/badge/Angular-343434?style=flat-square&amp;logo=angular&amp;logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-343434?style=flat-square&amp;logo=springboot&amp;logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-343434?style=flat-square&amp;logo=postgresql&amp;logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-343434?style=flat-square" /> <img alt="Rust" src="https://img.shields.io/badge/Rust-343434?style=flat-square&amp;logo=rust&amp;logoColor=white" /> <img alt="Shell" src="https://img.shields.io/badge/Shell-343434?style=flat-square&amp;logo=gnubash&amp;logoColor=white" /> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-343434?style=flat-square&amp;logo=vercel&amp;logoColor=white" /> <img alt="Neon" src="https://img.shields.io/badge/Neon-343434?style=flat-square" /></p>
+<sub>Technologies I build with using AI, rather than claims of independent mastery.</sub>
 
-## What I work with
+<br/><br/>
+<strong>Tools &amp; environment</strong>
+<p><img alt="Git" src="https://img.shields.io/badge/Git-343434?style=flat-square&amp;logo=git&amp;logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-343434?style=flat-square&amp;logo=github&amp;logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-343434?style=flat-square&amp;logo=linux&amp;logoColor=white" /> <img alt="Fedora" src="https://img.shields.io/badge/Fedora-343434?style=flat-square&amp;logo=fedora&amp;logoColor=white" /> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-343434?style=flat-square&amp;logo=intellijidea&amp;logoColor=white" /> <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-343434?style=flat-square" /> <img alt="AI-assisted Coding" src="https://img.shields.io/badge/AI--assisted%20Coding-343434?style=flat-square" /></p>
 
-**Programming foundations** — languages I personally know.
+</td>
+<td width="52%" valign="top">
 
-![HTML5](https://img.shields.io/badge/HTML5-8A3D32?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-8A3D32?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-8A3D32?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-8A3D32?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-8A3D32?style=flat-square&logo=openjdk&logoColor=white)
+<strong>GitHub activity</strong>
+<p><a href="https://gitshine.com/stats/Knownassa"><img src="https://gitshine.com/card/Knownassa" width="100%" alt="Live GitShine contribution statistics and streaks" /></a></p>
 
-**Design practice** — visual and interface work.
+<strong>Earned milestones</strong>
+<p><a href="https://gitshine.com/stats/Knownassa#badges"><img src="https://gitshine.com/badges/Knownassa" width="100%" alt="Earned GitShine badges" /></a></p>
 
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-575949?style=flat-square) ![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-575949?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-575949?style=flat-square&logo=figma&logoColor=white) ![Visual Identity](https://img.shields.io/badge/Visual%20Identity-575949?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-575949?style=flat-square) ![Design Systems](https://img.shields.io/badge/Design%20Systems-575949?style=flat-square) ![Typography](https://img.shields.io/badge/Typography-575949?style=flat-square) ![Layout Design](https://img.shields.io/badge/Layout%20Design-575949?style=flat-square)
+<strong>Contribution history</strong>
+<p><a href="https://gitshine.com/stats/Knownassa"><img src="https://gitshine.com/card/Knownassa?layout=years" width="100%" alt="Contributions by year" /></a></p>
 
-**AI-assisted build stack** — technologies I work with through experimentation and AI-assisted development; not a claim of independent mastery.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-343434?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-343434?style=flat-square&logo=angular&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-343434?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-343434?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-343434?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-343434?style=flat-square&logo=rust&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-343434?style=flat-square&logo=gnubash&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-343434?style=flat-square&logo=vercel&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-343434?style=flat-square)
-
-**Workflow & environment**
-
-![Git](https://img.shields.io/badge/Git-343434?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-343434?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-343434?style=flat-square&logo=linux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-343434?style=flat-square&logo=fedora&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-343434?style=flat-square&logo=intellijidea&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-343434?style=flat-square) ![AI-assisted Coding](https://img.shields.io/badge/AI--assisted%20Coding-343434?style=flat-square)
-
----
-
-<sub>03 / SELECTED WORK</sub>
-
-## The archive
-
-<a href="https://github.com/Knownassa/Slackinux"><img src="assets/slackinux.svg" width="32%" alt="01 — Slackinux" /></a>
-<a href="https://github.com/Knownassa/FIveplayonlinux"><img src="assets/fiveplay.svg" width="32%" alt="02 — Fiveplay on Linux" /></a>
-<a href="https://github.com/Knownassa/knownassaAcademicsubmissions"><img src="assets/academics.svg" width="32%" alt="03 — Academic submissions" /></a>
-
-| Index | Repository | Field |
-| :--- | :--- | :--- |
-| `01` | [Slackinux](https://github.com/Knownassa/Slackinux) | Linux software |
-| `02` | [FIveplayonlinux](https://github.com/Knownassa/FIveplayonlinux) | Linux software |
-| `03` | [knownassaAcademicsubmissions](https://github.com/Knownassa/knownassaAcademicsubmissions) | Academic work |
-| `04` | [Fontsequal](https://github.com/Knownassa/Fontsequal) | Personal repository |
-| `05` | [sutanote](https://github.com/Knownassa/sutanote) | Personal repository |
-
-[Browse the complete repository index ↗](https://github.com/Knownassa?tab=repositories)
-
----
-
-<sub>04 / ACTIVITY RECORD</sub>
-
-## GitHub, in numbers
-
-<img src="assets/account.svg" width="100%" alt="Public GitHub account age, repositories, followers and stars." />
-
-[![Knownassa's GitHub stats](https://gitshine.com/card/Knownassa)](https://gitshine.com/stats/Knownassa)
-
-[![Contribution history by year](https://gitshine.com/card/Knownassa?layout=years)](https://gitshine.com/stats/Knownassa)
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>Language distribution &amp; activity patterns</b></summary>
+<summary>More GitHub analytics — languages, activity &amp; achievements</summary>
 
-<p><a href="https://gitshine.com/stats/Knownassa"><img src="https://gitshine.com/card/Knownassa?layout=languages" width="49%" alt="Languages by repository code size" /></a> <a href="https://gitshine.com/stats/Knownassa"><img src="https://gitshine.com/card/Knownassa?layout=week" width="49%" alt="Contributions by weekday" /></a></p>
+<p><a href="https://gitshine.com/stats/Knownassa"><img src="https://gitshine.com/card/Knownassa?layout=languages" width="49%" alt="Public repository languages" /></a> <a href="https://gitshine.com/stats/Knownassa"><img src="https://gitshine.com/card/Knownassa?layout=week" width="49%" alt="Weekly activity patterns" /></a></p>
+<p><a href="https://gitshine.com/achievements/Knownassa"><img src="https://gitshine.com/card/Knownassa?layout=achievements" width="49%" alt="Achievement progress" /></a> <a href="https://gitshine.com/stats/Knownassa"><img src="https://gitshine.com/card/Knownassa?layout=wrapped" width="49%" alt="Year in review" /></a></p>
 
-Repository language distribution reflects the code in my public repositories, including AI-assisted work; it is not a measure of personal language proficiency.
-
-</details>
-
-<sub>05 / MILESTONES</sub>
-
-## Earned badges
-
-[![Knownassa's GitShine earned badges](https://gitshine.com/badges/Knownassa)](https://gitshine.com/stats/Knownassa#badges)
-
-<details>
-<summary><b>Achievement progress &amp; year in review</b></summary>
-
-[![GitHub achievement progress via GitShine](https://gitshine.com/card/Knownassa?layout=achievements)](https://gitshine.com/achievements/Knownassa)
-
-[![Knownassa's year in review](https://gitshine.com/card/Knownassa?layout=wrapped)](https://gitshine.com/stats/Knownassa)
+<sub>Language statistics describe repository code, including AI-assisted work. GitShine milestones are third-party achievements, not official GitHub rankings.</sub>
 
 </details>
-
-<sub>Statistics and milestone tiers are supplied by GitShine and GitHub public data. GitShine badges are third-party milestones, not an official global GitHub ranking.</sub>
-
----
-
-<sub>06 / ONGOING</sub>
-
-## Currently exploring
-
-AI-assisted product development, full-stack applications, software systems, and the intersection of interface design and engineering.
-
-**Find me:** [@Knownassa](https://github.com/Knownassa)
-
-<sub>END OF INDEX &nbsp; / &nbsp; CODE · DESIGN · EXPERIMENTS</sub>
