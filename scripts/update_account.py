@@ -18,11 +18,11 @@ def api(path):
 
 def render(values):
     items = [('ACCOUNT AGE',values[0]),('PUBLIC REPOS',values[1]),('FOLLOWERS',values[2]),('STARS RECEIVED',values[3])]
-    parts = ['<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 112" role="img" aria-label="Public account metrics"><rect width="900" height="112" fill="#242322"/><path d="M0 4H900" stroke="#aa5848" stroke-width="4"/>']
+    parts = ['<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 112" role="img" aria-label="Public account metrics"><rect x=".5" y=".5" width="899" height="111" rx="10" fill="#10151b" stroke="#30363d"/><path d="M22 14H878" stroke="#39d353" stroke-width="2"/>']
     for i,(label,val) in enumerate(items):
         x=22+i*225
-        if i: parts.append(f'<path d="M{x-12} 20V92" stroke="#57534e"/>')
-        parts.append(f'<text x="{x}" y="36" fill="#c6bfb3" font-family="monospace" font-size="12" letter-spacing="1">{label}</text><text x="{x}" y="76" fill="#f2ede3" font-family="Georgia,serif" font-size="29">{escape(str(val))}</text>')
+        if i: parts.append(f'<path d="M{x-12} 20V92" stroke="#30363d"/>')
+        parts.append(f'<text x="{x}" y="36" fill="#8b949e" font-family="monospace" font-size="12" letter-spacing="1">{label}</text><text x="{x}" y="76" fill="#f0f6fc" font-family="Arial,sans-serif" font-weight="700" font-size="29">{escape(str(val))}</text>')
     parts.append('</svg>')
     OUT.write_text(''.join(parts)+'\n', encoding='utf-8')
 
